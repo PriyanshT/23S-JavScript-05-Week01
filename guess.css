@@ -10,6 +10,6 @@ body {
     margin: 0 auto;
 }
 #lastResult {
-    color: white;
+    /* color: white; */
     padding: 3px;
 }
